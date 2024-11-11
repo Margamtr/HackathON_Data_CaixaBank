@@ -21,6 +21,14 @@ Dado el alto numero de datos, continuamos trabajando con PySpark para una mejor 
 
 - Resolución de Queries: Se respondieron consultas complejas de datos con SQL y otros métodos.
 
+## Estructura del Repositorio 📁
+
+- hackathon_t_1_query_1_2.ipynb : Código para el tratamiento de datos y resolución query 1 y 2.
+  
+- hackathon_t_1_query_3.ipynb: Resolución query 1 y 2.
+  
+- predictions_1.json: Resolución de queries en formato JSON.
+
 ## Próximos Pasos 🧩
 
 - Optimización y escalabilidad del procesamiento de datos.
